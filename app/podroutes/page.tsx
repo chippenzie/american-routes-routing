@@ -30,7 +30,7 @@ type YearWithMonths = {
   months: MonthLink[];
 };
 
-const VALID_MONTHS = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
+const VALID_MONTHS = ["DEC", "NOV", "JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT"];
 
 async function fetchMP3sForEpisode(episodeHref: string): Promise<{ title: string; mp3s: MP3Link[]; thumbnail: string | null }> {
   try {
@@ -120,6 +120,16 @@ async function fetchEpisodesForMonth(monthHref: string): Promise<EpisodeLink[]> 
       })
     );
 
+    // Sort episodes in reverse chronological order (newest first)
+    // Extract numeric ID from URL and sort by it in descending order
+    episodes.sort((a, b) => {
+      const getNumericId = (href: string) => {
+        const match = href.match(/\/(\d+)$/);
+        return match ? parseInt(match[1], 10) : 0;
+      };
+      return getNumericId(b.href) - getNumericId(a.href);
+    });
+
     return episodes;
   } catch (error) {
     console.error(`Error fetching episodes for ${monthHref}:`, error);
@@ -168,6 +178,12 @@ async function fetchMonthsForYear(yearHref: string): Promise<MonthLink[]> {
         };
       })
     );
+
+    // Sort months in reverse chronological order (December first, then November, etc.)
+    const monthOrder = ["DEC", "NOV", "OCT", "SEP", "AUG", "JUL", "JUN", "MAY", "APR", "MAR", "FEB", "JAN"];
+    months.sort((a, b) => {
+      return monthOrder.indexOf(a.month) - monthOrder.indexOf(b.month);
+    });
 
     return months;
   } catch (error) {
@@ -300,39 +316,39 @@ export default async function Podroutes() {
                         ) : (
                           <div className="space-y-3">
                             {month.episodes.filter(episode => episode.mp3s.length > 0).map((episode, episodeIndex) => (
-                              <div key={episodeIndex} className="episode bg-slate-50 p-3 rounded">
-                                {episode.thumbnail && (
-                                  <img
-                                    src={episode.thumbnail}
-                                    alt={episode.title || 'Episode thumbnail'}
-                                    className="w-32 h-32 object-cover rounded mb-2"
-                                  />
-                                )}
+                              <div key={episodeIndex} className="episode bg-slate-50 p-3 rounded flex gap-3">
+                                <img
+                                  src={episode.thumbnail || 'https://s3.amazonaws.com/production.mediajoint.prx.org/public/series_images/23980/ARlogo_redblue_medium.PNG'}
+                                  alt={episode.title || 'Episode thumbnail'}
+                                  className="w-32 h-32 object-cover rounded flex-shrink-0"
+                                />
 
-                                <a
-                                  href={episode.href}
-                                  target="_blank"
-                                  rel="noopener noreferrer"
-                                  className="text-blue-600 hover:text-blue-800 hover:underline text-sm font-medium"
-                                >
-                                  {episode.title || `Episode ${episodeIndex + 1}`}
-                                </a>
+                                <div className="flex-1">
+                                  <a
+                                    href={episode.href}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="text-blue-600 hover:text-blue-800 hover:underline text-sm font-medium"
+                                  >
+                                    {episode.title || `Episode ${episodeIndex + 1}`}
+                                  </a>
 
-                                <ul className="mt-2 space-y-1 ml-4">
-                                  {episode.mp3s.map((mp3, mp3Index) => (
-                                    <li key={mp3Index}>
-                                      <a
-                                        href={mp3.url}
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                        className="text-green-600 hover:text-green-800 hover:underline text-sm flex items-center gap-1"
-                                      >
-                                        <span className="text-xs">🎵</span>
-                                        {mp3.title}
-                                      </a>
-                                    </li>
-                                  ))}
-                                </ul>
+                                  <ul className="mt-2 space-y-1">
+                                    {episode.mp3s.map((mp3, mp3Index) => (
+                                      <li key={mp3Index}>
+                                        <a
+                                          href={mp3.url}
+                                          target="_blank"
+                                          rel="noopener noreferrer"
+                                          className="text-green-600 hover:text-green-800 hover:underline text-sm flex items-center gap-1"
+                                        >
+                                          <span className="text-xs">🎵</span>
+                                          {mp3.title}
+                                        </a>
+                                      </li>
+                                    ))}
+                                  </ul>
+                                </div>
                               </div>
                             ))}
                           </div>
