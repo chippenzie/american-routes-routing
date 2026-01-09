@@ -272,18 +272,59 @@ function escapeXml(unsafe: string): string {
     .replace(/'/g, '&apos;');
 }
 
+function getMonthNumber(monthName: string): number {
+  const months: { [key: string]: number } = {
+    'JAN': 0, 'FEB': 1, 'MAR': 2, 'APR': 3, 'MAY': 4, 'JUN': 5,
+    'JUL': 6, 'AUG': 7, 'SEP': 8, 'OCT': 9, 'NOV': 10, 'DEC': 11
+  };
+  return months[monthName] ?? 0;
+}
+
+function getMondaysOfMonth(year: number, month: number): Date[] {
+  const mondays: Date[] = [];
+  const date = new Date(year, month, 1);
+
+  // Find the first Monday of the month
+  while (date.getDay() !== 1) {
+    date.setDate(date.getDate() + 1);
+  }
+
+  // Collect all Mondays
+  while (date.getMonth() === month) {
+    mondays.push(new Date(date));
+    date.setDate(date.getDate() + 7);
+  }
+
+  return mondays;
+}
+
 export async function GET() {
   const years = await fetchPodroutes();
 
-  // Flatten all episodes from all months and years
-  const allEpisodes: Array<EpisodeLink & { year: string; month: string }> = [];
+  // Flatten all episodes from all months and years with calculated pubDates
+  const allEpisodes: Array<EpisodeLink & { year: string; month: string; pubDate: Date }> = [];
   for (const year of years) {
+    const yearNum = parseInt(year.year.match(/\d{4}/)?.[0] || '0', 10);
+
     for (const month of year.months) {
-      for (const episode of month.episodes.filter(ep => ep.mp3s.length > 0)) {
+      const monthNum = getMonthNumber(month.month);
+      const mondays = getMondaysOfMonth(yearNum, monthNum);
+
+      const episodesWithMp3s = month.episodes.filter(ep => ep.mp3s.length > 0);
+
+      // Assign Mondays to episodes in reverse order (newest episode gets last Monday)
+      for (let i = 0; i < episodesWithMp3s.length; i++) {
+        const episode = episodesWithMp3s[i];
+        // Use the Monday corresponding to this episode's position
+        // If there are more episodes than Mondays, wrap around
+        const mondayIndex = Math.max(0, mondays.length - 1 - i);
+        const pubDate = mondays[mondayIndex] || new Date(yearNum, monthNum, 1);
+
         allEpisodes.push({
           ...episode,
           year: year.year,
-          month: month.month
+          month: month.month,
+          pubDate
         });
       }
     }
@@ -328,6 +369,7 @@ export async function GET() {
     <atom:link href="${process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'}/api/feed" rel="self" type="application/rss+xml"/>
 ${allEpisodes.flatMap(episode => {
   const thumbnail = episode.thumbnail || channelImage;
+  const episodePubDate = episode.pubDate.toUTCString();
 
   // Create a separate item for each MP3
   return episode.mp3s.map((mp3, index) => {
@@ -341,7 +383,7 @@ ${allEpisodes.flatMap(episode => {
       <link>${escapeXml(episode.href)}</link>
       <description>${escapeXml(itemTitle)}</description>
       <guid isPermaLink="false">${escapeXml(itemGuid)}</guid>
-      <pubDate>${buildDate}</pubDate>
+      <pubDate>${episodePubDate}</pubDate>
 
       <enclosure url="${escapeXml(mp3.url)}" type="audio/mpeg"/>
 
