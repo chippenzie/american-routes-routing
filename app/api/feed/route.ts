@@ -1,4 +1,6 @@
 import * as cheerio from 'cheerio';
+import { writeFileSync } from 'fs';
+import { join } from 'path';
 
 type MP3Link = {
   url: string;
@@ -352,6 +354,10 @@ ${allEpisodes.flatMap(episode => {
 }).join('')}
   </channel>
 </rss>`;
+
+  // Write the RSS feed to disk
+  const rssFilePath = join(process.cwd(), 'amroutes.rss');
+  writeFileSync(rssFilePath, rss, 'utf-8');
 
   return new Response(rss, {
     headers: {

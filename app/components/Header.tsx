@@ -18,6 +18,12 @@ export default function Header() {
             >
               Podroutes
             </Link>
+            <Link
+              href="/api/feed"
+              className="text-slate-700 hover:text-slate-900 font-medium transition-colors"
+            >
+              RSS Feed
+            </Link>
           </div>
         </div>
       </nav>
