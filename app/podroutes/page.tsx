@@ -289,7 +289,7 @@ export default async function Podroutes() {
                         ) : (
                           <div className="space-y-3">
                             {month.episodes.filter(episode => episode.mp3s.length > 0).map((episode, episodeIndex) => (
-                              <div key={episodeIndex} className="bg-slate-50 p-3 rounded">
+                              <div key={episodeIndex} className="episode bg-slate-50 p-3 rounded">
                                 <a
                                   href={episode.href}
                                   target="_blank"
