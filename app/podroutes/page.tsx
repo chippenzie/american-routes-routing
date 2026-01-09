@@ -15,6 +15,7 @@ type EpisodeLink = {
   text: string;
   title: string;
   mp3s: MP3Link[];
+  thumbnail: string | null;
 };
 
 type MonthLink = {
@@ -31,7 +32,7 @@ type YearWithMonths = {
 
 const VALID_MONTHS = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
 
-async function fetchMP3sForEpisode(episodeHref: string): Promise<{ title: string; mp3s: MP3Link[] }> {
+async function fetchMP3sForEpisode(episodeHref: string): Promise<{ title: string; mp3s: MP3Link[]; thumbnail: string | null }> {
   try {
     const response = await fetch(episodeHref, {
       cache: 'no-store'
@@ -39,7 +40,7 @@ async function fetchMP3sForEpisode(episodeHref: string): Promise<{ title: string
 
     if (!response.ok) {
       console.error(`Failed to fetch ${episodeHref}: ${response.status}`);
-      return { title: '', mp3s: [] };
+      return { title: '', mp3s: [], thumbnail: null };
     }
 
     const html = await response.text();
@@ -59,10 +60,19 @@ async function fetchMP3sForEpisode(episodeHref: string): Promise<{ title: string
       }
     });
 
-    return { title, mp3s };
+    // Extract the first thumbnail image whose class contains "thumb-image"
+    let thumbnail: string | null = null;
+
+    if ($('img.thumb-image').length > 0) {
+      const thumber = $('img.thumb-image')[0]
+      thumbnail = $(thumber).attr('data-src')!;
+      console.log(thumbnail);
+    }
+
+    return { title, mp3s, thumbnail };
   } catch (error) {
     console.error(`Error fetching MP3s for ${episodeHref}:`, error);
-    return { title: '', mp3s: [] };
+    return { title: '', mp3s: [], thumbnail: null };
   }
 }
 
@@ -99,12 +109,13 @@ async function fetchEpisodesForMonth(monthHref: string): Promise<EpisodeLink[]> 
     // Fetch MP3s and title for each episode
     const episodes: EpisodeLink[] = await Promise.all(
       episodeLinks.map(async (episodeLink) => {
-        const { title, mp3s } = await fetchMP3sForEpisode(episodeLink.href);
+        const { title, mp3s, thumbnail } = await fetchMP3sForEpisode(episodeLink.href);
         return {
           href: episodeLink.href,
           text: episodeLink.text,
           title,
-          mp3s
+          mp3s,
+          thumbnail
         };
       })
     );
@@ -290,6 +301,14 @@ export default async function Podroutes() {
                           <div className="space-y-3">
                             {month.episodes.filter(episode => episode.mp3s.length > 0).map((episode, episodeIndex) => (
                               <div key={episodeIndex} className="episode bg-slate-50 p-3 rounded">
+                                {episode.thumbnail && (
+                                  <img
+                                    src={episode.thumbnail}
+                                    alt={episode.title || 'Episode thumbnail'}
+                                    className="w-32 h-32 object-cover rounded mb-2"
+                                  />
+                                )}
+
                                 <a
                                   href={episode.href}
                                   target="_blank"
