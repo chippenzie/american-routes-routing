@@ -9,8 +9,8 @@
     <description>American Routes is a weekly two-hour public radio program produced in New Orleans, presenting the breadth and depth of the American musical and cultural landscape.</description>
     <language>en-us</language>
     <copyright>American Routes</copyright>
-    <lastBuildDate>Fri, 09 Jan 2026 21:48:08 GMT</lastBuildDate>
-    <pubDate>Fri, 09 Jan 2026 21:48:08 GMT</pubDate>
+    <lastBuildDate>Sun, 25 Jan 2026 17:36:25 GMT</lastBuildDate>
+    <pubDate>Sun, 25 Jan 2026 17:36:25 GMT</pubDate>
     <generator>amroutes rss generator</generator>
 
     <itunes:author>American Routes</itunes:author>
@@ -33,6 +33,90 @@
 
     <atom:link href="http://localhost:3000/api/feed" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>North American Routes from South Louisiana to Cape Breton with the Savoy-Doucet Cajun Band and Beòlach - Hour One</title>
+      <link>https://www.amroutes.org/january-2026-1/2603</link>
+      <description>North American Routes from South Louisiana to Cape Breton with the Savoy-Doucet Cajun Band and Beòlach - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/january-2026-1/2603#hour-1</guid>
+      <pubDate>Mon, 26 Jan 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2024/2449_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>North American Routes from South Louisiana to Cape Breton with the Savoy-Doucet Cajun Band and Beòlach - Hour One</itunes:title>
+      <itunes:summary>North American Routes from South Louisiana to Cape Breton with the Savoy-Doucet Cajun Band and Beòlach - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1712852776945-7M7YCZVZ9EXS7AYPB3U7/83dcea25926a9bce5b4797b56e8829fe47aa5bc7.jpeg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>North American Routes from South Louisiana to Cape Breton with the Savoy-Doucet Cajun Band and Beòlach - Hour Two</title>
+      <link>https://www.amroutes.org/january-2026-1/2603</link>
+      <description>North American Routes from South Louisiana to Cape Breton with the Savoy-Doucet Cajun Band and Beòlach - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/january-2026-1/2603#hour-2</guid>
+      <pubDate>Mon, 26 Jan 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2603_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>North American Routes from South Louisiana to Cape Breton with the Savoy-Doucet Cajun Band and Beòlach - Hour Two</itunes:title>
+      <itunes:summary>North American Routes from South Louisiana to Cape Breton with the Savoy-Doucet Cajun Band and Beòlach - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1712852776945-7M7YCZVZ9EXS7AYPB3U7/83dcea25926a9bce5b4797b56e8829fe47aa5bc7.jpeg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>MLK Day with the Gullah Geechee Ring Shouters - Hour One</title>
+      <link>https://www.amroutes.org/january-2026-1/2602</link>
+      <description>MLK Day with the Gullah Geechee Ring Shouters - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/january-2026-1/2602#hour-1</guid>
+      <pubDate>Mon, 19 Jan 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2602_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>MLK Day with the Gullah Geechee Ring Shouters - Hour One</itunes:title>
+      <itunes:summary>MLK Day with the Gullah Geechee Ring Shouters - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1736890832453-AY7FM98TMWG18BHOENLW/GullahGeecheeRingShouters.jpg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>MLK Day with the Gullah Geechee Ring Shouters - Hour Two</title>
+      <link>https://www.amroutes.org/january-2026-1/2602</link>
+      <description>MLK Day with the Gullah Geechee Ring Shouters - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/january-2026-1/2602#hour-2</guid>
+      <pubDate>Mon, 19 Jan 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2602_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>MLK Day with the Gullah Geechee Ring Shouters - Hour Two</itunes:title>
+      <itunes:summary>MLK Day with the Gullah Geechee Ring Shouters - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1736890832453-AY7FM98TMWG18BHOENLW/GullahGeecheeRingShouters.jpg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>Way Down Yonder in New Orleans and Beyond - Hour One</title>
+      <link>https://www.amroutes.org/january-2026-1/2601</link>
+      <description>Way Down Yonder in New Orleans and Beyond - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/january-2026-1/2601#hour-1</guid>
+      <pubDate>Mon, 12 Jan 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2601_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Way Down Yonder in New Orleans and Beyond - Hour One</itunes:title>
+      <itunes:summary>Way Down Yonder in New Orleans and Beyond - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1711902236142-6W4M68EREJLAYX75KM2B/WayDownYonderInNOBlossomSeeley-1698689525.jpg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>Way Down Yonder in New Orleans and Beyond - Hour Two</title>
+      <link>https://www.amroutes.org/january-2026-1/2601</link>
+      <description>Way Down Yonder in New Orleans and Beyond - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/january-2026-1/2601#hour-2</guid>
+      <pubDate>Mon, 12 Jan 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="  https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2601_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Way Down Yonder in New Orleans and Beyond - Hour Two</itunes:title>
+      <itunes:summary>Way Down Yonder in New Orleans and Beyond - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1711902236142-6W4M68EREJLAYX75KM2B/WayDownYonderInNOBlossomSeeley-1698689525.jpg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
     <item>
       <title>New Year&apos;s with Mr. Sipp’s Blues and Sheryl Cormier’s Cajun Accordion - Hour One</title>
       <link>https://www.amroutes.org/december-2025-1/2553</link>
@@ -1608,7 +1692,7 @@
       <guid isPermaLink="false">https://www.amroutes.org/december-2024/2449#hour-1</guid>
       <pubDate>Mon, 09 Dec 2024 05:00:00 GMT</pubDate>
 
-      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/674dec747ed4a613c688c70a/1733160407182/2449_01.mp3/original/2449_01.mp3" type="audio/mpeg"/>
+      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/674dec747ed4a613c688c70a/1768931014933/2449_01.mp3/original/2449_01.mp3" type="audio/mpeg"/>
 
       <itunes:title>North American Routes from South Louisiana to Cape Breton with the Savoy-Doucet Cajun Band and Beòlach - Hour One</itunes:title>
       <itunes:summary>North American Routes from South Louisiana to Cape Breton with the Savoy-Doucet Cajun Band and Beòlach - Hour One</itunes:summary>
@@ -1622,7 +1706,7 @@
       <guid isPermaLink="false">https://www.amroutes.org/december-2024/2449#hour-2</guid>
       <pubDate>Mon, 09 Dec 2024 05:00:00 GMT</pubDate>
 
-      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/674dee0046e64400adffc03a/1733160798758/2449_02.mp3/original/2449_02.mp3" type="audio/mpeg"/>
+      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/674dee0046e64400adffc03a/1768931014948/2449_02.mp3/original/2449_02.mp3" type="audio/mpeg"/>
 
       <itunes:title>North American Routes from South Louisiana to Cape Breton with the Savoy-Doucet Cajun Band and Beòlach - Hour Two</itunes:title>
       <itunes:summary>North American Routes from South Louisiana to Cape Breton with the Savoy-Doucet Cajun Band and Beòlach - Hour Two</itunes:summary>
