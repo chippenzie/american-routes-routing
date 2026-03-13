@@ -9,8 +9,8 @@
     <description>American Routes is a weekly two-hour public radio program produced in New Orleans, presenting the breadth and depth of the American musical and cultural landscape.</description>
     <language>en-us</language>
     <copyright>American Routes</copyright>
-    <lastBuildDate>Sun, 25 Jan 2026 17:36:25 GMT</lastBuildDate>
-    <pubDate>Sun, 25 Jan 2026 17:36:25 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2026 18:20:22 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2026 18:20:22 GMT</pubDate>
     <generator>amroutes rss generator</generator>
 
     <itunes:author>American Routes</itunes:author>
@@ -34,11 +34,207 @@
     <atom:link href="http://localhost:3000/api/feed" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>St. Patrick’s Singers, Fiddlers and Pickers from Ireland to America - Hour One</title>
+      <link>https://www.amroutes.org/march-2026/2610</link>
+      <description>St. Patrick’s Singers, Fiddlers and Pickers from Ireland to America - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/march-2026/2610#hour-1</guid>
+      <pubDate>Mon, 30 Mar 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2024/2411_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>St. Patrick’s Singers, Fiddlers and Pickers from Ireland to America - Hour One</itunes:title>
+      <itunes:summary>St. Patrick’s Singers, Fiddlers and Pickers from Ireland to America - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713985371790-PLFNC7GO26SVHC2IINEC/Clancy_Brothers-1646771698.jpg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>St. Patrick’s Singers, Fiddlers and Pickers from Ireland to America - Hour Two</title>
+      <link>https://www.amroutes.org/march-2026/2610</link>
+      <description>St. Patrick’s Singers, Fiddlers and Pickers from Ireland to America - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/march-2026/2610#hour-2</guid>
+      <pubDate>Mon, 30 Mar 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2610_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>St. Patrick’s Singers, Fiddlers and Pickers from Ireland to America - Hour Two</itunes:title>
+      <itunes:summary>St. Patrick’s Singers, Fiddlers and Pickers from Ireland to America - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713985371790-PLFNC7GO26SVHC2IINEC/Clancy_Brothers-1646771698.jpg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>Drifting Cowboy Blues with Texan Charley Crockett &amp; Homeland Bluegrass with Virginian Linda Lay - Hour One</title>
+      <link>https://www.amroutes.org/march-2026/2609</link>
+      <description>Drifting Cowboy Blues with Texan Charley Crockett &amp; Homeland Bluegrass with Virginian Linda Lay - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/march-2026/2609#hour-1</guid>
+      <pubDate>Mon, 23 Mar 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2024/2443_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Drifting Cowboy Blues with Texan Charley Crockett &amp; Homeland Bluegrass with Virginian Linda Lay - Hour One</itunes:title>
+      <itunes:summary>Drifting Cowboy Blues with Texan Charley Crockett &amp; Homeland Bluegrass with Virginian Linda Lay - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713472823995-UUQ58DV3I97NV8UDG2OK/Charley-Crockett-Photo-Credit-Taylor-Grace-1-1664468454.jpg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>Drifting Cowboy Blues with Texan Charley Crockett &amp; Homeland Bluegrass with Virginian Linda Lay - Hour Two</title>
+      <link>https://www.amroutes.org/march-2026/2609</link>
+      <description>Drifting Cowboy Blues with Texan Charley Crockett &amp; Homeland Bluegrass with Virginian Linda Lay - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/march-2026/2609#hour-2</guid>
+      <pubDate>Mon, 23 Mar 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2609_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Drifting Cowboy Blues with Texan Charley Crockett &amp; Homeland Bluegrass with Virginian Linda Lay - Hour Two</itunes:title>
+      <itunes:summary>Drifting Cowboy Blues with Texan Charley Crockett &amp; Homeland Bluegrass with Virginian Linda Lay - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713472823995-UUQ58DV3I97NV8UDG2OK/Charley-Crockett-Photo-Credit-Taylor-Grace-1-1664468454.jpg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>American Routes Live: Creole Songlines of Leyla McCalla and Saxophonist Donald Harrison&apos;s Jazz Journey - Hour One</title>
+      <link>https://www.amroutes.org/february-2026/2608</link>
+      <description>American Routes Live: Creole Songlines of Leyla McCalla and Saxophonist Donald Harrison&apos;s Jazz Journey - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/february-2026/2608#hour-1</guid>
+      <pubDate>Mon, 23 Feb 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2608_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>American Routes Live: Creole Songlines of Leyla McCalla and Saxophonist Donald Harrison&apos;s Jazz Journey - Hour One</itunes:title>
+      <itunes:summary>American Routes Live: Creole Songlines of Leyla McCalla and Saxophonist Donald Harrison&apos;s Jazz Journey - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1736353270158-LO9D3YOZNW4EA23VT9NJ/Leyla_Promo_2-1595887253.JPG"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>American Routes Live: Creole Songlines of Leyla McCalla and Saxophonist Donald Harrison&apos;s Jazz Journey - Hour Two</title>
+      <link>https://www.amroutes.org/february-2026/2608</link>
+      <description>American Routes Live: Creole Songlines of Leyla McCalla and Saxophonist Donald Harrison&apos;s Jazz Journey - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/february-2026/2608#hour-2</guid>
+      <pubDate>Mon, 23 Feb 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2608_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>American Routes Live: Creole Songlines of Leyla McCalla and Saxophonist Donald Harrison&apos;s Jazz Journey - Hour Two</itunes:title>
+      <itunes:summary>American Routes Live: Creole Songlines of Leyla McCalla and Saxophonist Donald Harrison&apos;s Jazz Journey - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1736353270158-LO9D3YOZNW4EA23VT9NJ/Leyla_Promo_2-1595887253.JPG"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>Piedmont Blues with Jontavious Willis &amp; Andrew Alli and The Stooges Brass Band Live from New Orleans - Hour One</title>
+      <link>https://www.amroutes.org/february-2026/2607</link>
+      <description>Piedmont Blues with Jontavious Willis &amp; Andrew Alli and The Stooges Brass Band Live from New Orleans - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/february-2026/2607#hour-1</guid>
+      <pubDate>Mon, 16 Feb 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2607_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Piedmont Blues with Jontavious Willis &amp; Andrew Alli and The Stooges Brass Band Live from New Orleans - Hour One</itunes:title>
+      <itunes:summary>Piedmont Blues with Jontavious Willis &amp; Andrew Alli and The Stooges Brass Band Live from New Orleans - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1749bf29-a7a4-4552-ae5a-379f245a9396/StoogesBrassBand-1671728601-1672769526+%281%29.jpg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>Piedmont Blues with Jontavious Willis &amp; Andrew Alli and The Stooges Brass Band Live from New Orleans - Hour Two</title>
+      <link>https://www.amroutes.org/february-2026/2607</link>
+      <description>Piedmont Blues with Jontavious Willis &amp; Andrew Alli and The Stooges Brass Band Live from New Orleans - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/february-2026/2607#hour-2</guid>
+      <pubDate>Mon, 16 Feb 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2607_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Piedmont Blues with Jontavious Willis &amp; Andrew Alli and The Stooges Brass Band Live from New Orleans - Hour Two</itunes:title>
+      <itunes:summary>Piedmont Blues with Jontavious Willis &amp; Andrew Alli and The Stooges Brass Band Live from New Orleans - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1749bf29-a7a4-4552-ae5a-379f245a9396/StoogesBrassBand-1671728601-1672769526+%281%29.jpg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>It’s Carnival Time! - Hour One</title>
+      <link>https://www.amroutes.org/february-2026/2606</link>
+      <description>It’s Carnival Time! - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/february-2026/2606#hour-1</guid>
+      <pubDate>Mon, 09 Feb 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2606_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>It’s Carnival Time! - Hour One</itunes:title>
+      <itunes:summary>It’s Carnival Time! - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713987090483-SF77NGOYYSS2SET6WIOB/IMG_1834-1644856111.JPG"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>It’s Carnival Time! - Hour Two</title>
+      <link>https://www.amroutes.org/february-2026/2606</link>
+      <description>It’s Carnival Time! - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/february-2026/2606#hour-2</guid>
+      <pubDate>Mon, 09 Feb 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2606_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>It’s Carnival Time! - Hour Two</itunes:title>
+      <itunes:summary>It’s Carnival Time! - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713987090483-SF77NGOYYSS2SET6WIOB/IMG_1834-1644856111.JPG"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>Cosmic Saxophones: Charles Neville and Charles Lloyd - Hour One</title>
+      <link>https://www.amroutes.org/february-2026/2605</link>
+      <description>Cosmic Saxophones: Charles Neville and Charles Lloyd - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/february-2026/2605#hour-1</guid>
+      <pubDate>Mon, 02 Feb 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2605_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Cosmic Saxophones: Charles Neville and Charles Lloyd - Hour One</itunes:title>
+      <itunes:summary>Cosmic Saxophones: Charles Neville and Charles Lloyd - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1728321482441-7S257BRPEMJV8B044TQD/CharlesNeville2_web-1462902274.jpg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>Cosmic Saxophones: Charles Neville and Charles Lloyd - Hour Two</title>
+      <link>https://www.amroutes.org/february-2026/2605</link>
+      <description>Cosmic Saxophones: Charles Neville and Charles Lloyd - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/february-2026/2605#hour-2</guid>
+      <pubDate>Mon, 02 Feb 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2605_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Cosmic Saxophones: Charles Neville and Charles Lloyd - Hour Two</itunes:title>
+      <itunes:summary>Cosmic Saxophones: Charles Neville and Charles Lloyd - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1728321482441-7S257BRPEMJV8B044TQD/CharlesNeville2_web-1462902274.jpg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>Musical Memories with Joe Ely &amp; Roscoe Robinson - Hour One</title>
+      <link>https://www.amroutes.org/january-2026-1/2604</link>
+      <description>Musical Memories with Joe Ely &amp; Roscoe Robinson - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/january-2026-1/2604#hour-1</guid>
+      <pubDate>Mon, 26 Jan 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2604_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Musical Memories with Joe Ely &amp; Roscoe Robinson - Hour One</itunes:title>
+      <itunes:summary>Musical Memories with Joe Ely &amp; Roscoe Robinson - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1732641387194-ITLWWBTIT34KUOCLNNVI/JoeEly%2BCaddy-1540829440.jpg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
+      <title>Musical Memories with Joe Ely &amp; Roscoe Robinson - Hour Two</title>
+      <link>https://www.amroutes.org/january-2026-1/2604</link>
+      <description>Musical Memories with Joe Ely &amp; Roscoe Robinson - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/january-2026-1/2604#hour-2</guid>
+      <pubDate>Mon, 26 Jan 2026 05:00:00 GMT</pubDate>
+
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2604_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Musical Memories with Joe Ely &amp; Roscoe Robinson - Hour Two</itunes:title>
+      <itunes:summary>Musical Memories with Joe Ely &amp; Roscoe Robinson - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1732641387194-ITLWWBTIT34KUOCLNNVI/JoeEly%2BCaddy-1540829440.jpg"/>
+      <itunes:duration>7200</itunes:duration>
+    </item>
+    <item>
       <title>North American Routes from South Louisiana to Cape Breton with the Savoy-Doucet Cajun Band and Beòlach - Hour One</title>
       <link>https://www.amroutes.org/january-2026-1/2603</link>
       <description>North American Routes from South Louisiana to Cape Breton with the Savoy-Doucet Cajun Band and Beòlach - Hour One</description>
       <guid isPermaLink="false">https://www.amroutes.org/january-2026-1/2603#hour-1</guid>
-      <pubDate>Mon, 26 Jan 2026 05:00:00 GMT</pubDate>
+      <pubDate>Mon, 19 Jan 2026 05:00:00 GMT</pubDate>
 
       <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2024/2449_01.mp3" type="audio/mpeg"/>
 
@@ -52,7 +248,7 @@
       <link>https://www.amroutes.org/january-2026-1/2603</link>
       <description>North American Routes from South Louisiana to Cape Breton with the Savoy-Doucet Cajun Band and Beòlach - Hour Two</description>
       <guid isPermaLink="false">https://www.amroutes.org/january-2026-1/2603#hour-2</guid>
-      <pubDate>Mon, 26 Jan 2026 05:00:00 GMT</pubDate>
+      <pubDate>Mon, 19 Jan 2026 05:00:00 GMT</pubDate>
 
       <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2603_02.mp3" type="audio/mpeg"/>
 
@@ -66,7 +262,7 @@
       <link>https://www.amroutes.org/january-2026-1/2602</link>
       <description>MLK Day with the Gullah Geechee Ring Shouters - Hour One</description>
       <guid isPermaLink="false">https://www.amroutes.org/january-2026-1/2602#hour-1</guid>
-      <pubDate>Mon, 19 Jan 2026 05:00:00 GMT</pubDate>
+      <pubDate>Mon, 12 Jan 2026 05:00:00 GMT</pubDate>
 
       <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2602_01.mp3" type="audio/mpeg"/>
 
@@ -80,7 +276,7 @@
       <link>https://www.amroutes.org/january-2026-1/2602</link>
       <description>MLK Day with the Gullah Geechee Ring Shouters - Hour Two</description>
       <guid isPermaLink="false">https://www.amroutes.org/january-2026-1/2602#hour-2</guid>
-      <pubDate>Mon, 19 Jan 2026 05:00:00 GMT</pubDate>
+      <pubDate>Mon, 12 Jan 2026 05:00:00 GMT</pubDate>
 
       <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2602_02.mp3" type="audio/mpeg"/>
 
@@ -94,7 +290,7 @@
       <link>https://www.amroutes.org/january-2026-1/2601</link>
       <description>Way Down Yonder in New Orleans and Beyond - Hour One</description>
       <guid isPermaLink="false">https://www.amroutes.org/january-2026-1/2601#hour-1</guid>
-      <pubDate>Mon, 12 Jan 2026 05:00:00 GMT</pubDate>
+      <pubDate>Mon, 05 Jan 2026 05:00:00 GMT</pubDate>
 
       <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2601_01.mp3" type="audio/mpeg"/>
 
@@ -108,7 +304,7 @@
       <link>https://www.amroutes.org/january-2026-1/2601</link>
       <description>Way Down Yonder in New Orleans and Beyond - Hour Two</description>
       <guid isPermaLink="false">https://www.amroutes.org/january-2026-1/2601#hour-2</guid>
-      <pubDate>Mon, 12 Jan 2026 05:00:00 GMT</pubDate>
+      <pubDate>Mon, 05 Jan 2026 05:00:00 GMT</pubDate>
 
       <enclosure url="  https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2026/2601_02.mp3" type="audio/mpeg"/>
 
@@ -1804,7 +2000,7 @@
       <guid isPermaLink="false">https://www.amroutes.org/november-2024-1/2445#hour-1</guid>
       <pubDate>Mon, 04 Nov 2024 05:00:00 GMT</pubDate>
 
-      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/672bee5ae9ea726b328cda77/1730932486377/2445_01_fixed.mp3/original/2445_01_fixed.mp3" type="audio/mpeg"/>
+      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/672bee5ae9ea726b328cda77/1771266445120/2445_01_fixed.mp3/original/2445_01_fixed.mp3" type="audio/mpeg"/>
 
       <itunes:title>Piedmont Blues with Jontavious Willis &amp; Andrew Alli and The Stooges Brass Band Live from New Orleans - Hour One</itunes:title>
       <itunes:summary>Piedmont Blues with Jontavious Willis &amp; Andrew Alli and The Stooges Brass Band Live from New Orleans - Hour One</itunes:summary>
@@ -1818,7 +2014,7 @@
       <guid isPermaLink="false">https://www.amroutes.org/november-2024-1/2445#hour-2</guid>
       <pubDate>Mon, 04 Nov 2024 05:00:00 GMT</pubDate>
 
-      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/6729122e75db59505b694547/1730745185030/2445_02.mp3/original/2445_02.mp3" type="audio/mpeg"/>
+      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/6729122e75db59505b694547/1771266445130/2445_02.mp3/original/2445_02.mp3" type="audio/mpeg"/>
 
       <itunes:title>Piedmont Blues with Jontavious Willis &amp; Andrew Alli and The Stooges Brass Band Live from New Orleans - Hour Two</itunes:title>
       <itunes:summary>Piedmont Blues with Jontavious Willis &amp; Andrew Alli and The Stooges Brass Band Live from New Orleans - Hour Two</itunes:summary>
@@ -2775,34 +2971,6 @@
       <itunes:title>ST. PATRICK&apos;S SINGERS, FIDDLERS AND PICKERS FROM IRELAND TO AMERICA - Hour Two</itunes:title>
       <itunes:summary>ST. PATRICK&apos;S SINGERS, FIDDLERS AND PICKERS FROM IRELAND TO AMERICA - Hour Two</itunes:summary>
       <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713477172103-908PI1BFXM0BQPIYRHFW/Clancy_Brothers-1646771698.jpeg"/>
-      <itunes:duration>7200</itunes:duration>
-    </item>
-    <item>
-      <title>ST. PATRICK&apos;S SINGERS, FIDDLERS AND PICKERS FROM IRELAND TO AMERICA - Hour One</title>
-      <link>https://www.amroutes.org/march-2024/blog-post-title-one-dae5b-7txxs-r522b-k9ggb-2nwpd-5xxmj</link>
-      <description>ST. PATRICK&apos;S SINGERS, FIDDLERS AND PICKERS FROM IRELAND TO AMERICA - Hour One</description>
-      <guid isPermaLink="false">https://www.amroutes.org/march-2024/blog-post-title-one-dae5b-7txxs-r522b-k9ggb-2nwpd-5xxmj#hour-1</guid>
-      <pubDate>Mon, 04 Mar 2024 05:00:00 GMT</pubDate>
-
-      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/6614669f4c019227384d9a35/1712613144005/2411_01.mp3/original/2411_01.mp3" type="audio/mpeg"/>
-
-      <itunes:title>ST. PATRICK&apos;S SINGERS, FIDDLERS AND PICKERS FROM IRELAND TO AMERICA - Hour One</itunes:title>
-      <itunes:summary>ST. PATRICK&apos;S SINGERS, FIDDLERS AND PICKERS FROM IRELAND TO AMERICA - Hour One</itunes:summary>
-      <itunes:image href="https://s3.amazonaws.com/production.mediajoint.prx.org/public/series_images/23980/ARlogo_redblue_medium.PNG"/>
-      <itunes:duration>7200</itunes:duration>
-    </item>
-    <item>
-      <title>ST. PATRICK&apos;S SINGERS, FIDDLERS AND PICKERS FROM IRELAND TO AMERICA - Hour Two</title>
-      <link>https://www.amroutes.org/march-2024/blog-post-title-one-dae5b-7txxs-r522b-k9ggb-2nwpd-5xxmj</link>
-      <description>ST. PATRICK&apos;S SINGERS, FIDDLERS AND PICKERS FROM IRELAND TO AMERICA - Hour Two</description>
-      <guid isPermaLink="false">https://www.amroutes.org/march-2024/blog-post-title-one-dae5b-7txxs-r522b-k9ggb-2nwpd-5xxmj#hour-2</guid>
-      <pubDate>Mon, 04 Mar 2024 05:00:00 GMT</pubDate>
-
-      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/66146783f3adbe2d9ebafa71/1712613371496/2411_02_fixed.mp3/original/2411_02_fixed.mp3" type="audio/mpeg"/>
-
-      <itunes:title>ST. PATRICK&apos;S SINGERS, FIDDLERS AND PICKERS FROM IRELAND TO AMERICA - Hour Two</itunes:title>
-      <itunes:summary>ST. PATRICK&apos;S SINGERS, FIDDLERS AND PICKERS FROM IRELAND TO AMERICA - Hour Two</itunes:summary>
-      <itunes:image href="https://s3.amazonaws.com/production.mediajoint.prx.org/public/series_images/23980/ARlogo_redblue_medium.PNG"/>
       <itunes:duration>7200</itunes:duration>
     </item>
     <item>
