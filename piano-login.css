@@ -1,0 +1,120 @@
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[5].use[3]!../../node_modules/glob-import-loader/index.js!./src/styles/piano.scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************/
+/**
+ * This mixin assumes that each typography preset includes a style property for
+ * each of the following properties:
+ * - font-size
+ * - font-style
+ * - font-weight
+ * - letter-spacing
+ * - line-height
+ * - text-decoration
+ */
+/* testes */
+body.piano-id-modal .btn {
+  align-items: center;
+  border: 1px solid currentColor;
+  border-radius: 1.5rem;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: aktiv-grotesk, Helvetica, Roboto, Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 1.5;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  transition: background-color 150ms ease-out, color 150ms ease-out;
+  width: 100%;
+}
+body.piano-id-modal .btn.prime {
+  background-color: #ffbb33;
+  color: #171717;
+}
+body.piano-id-modal .btn.prime:hover, body.piano-id-modal .btn.prime:focus {
+  background-color: #ffc655;
+}
+body.piano-id-modal .btn.prime:active {
+  background-color: #e5a629;
+}
+body.piano-id-modal .branded-social-button.branded-social-button {
+  align-items: center;
+  background-color: #fff;
+  border: 1px solid rgba(15, 15, 21, 0.2);
+  border-radius: 1.5rem;
+  color: #171717;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: aktiv-grotesk, Helvetica, Roboto, Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  gap: 0.25rem;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 1.5;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  transition: background-color 150ms ease-out, color 150ms ease-out;
+  width: 100%;
+}
+body.piano-id-modal .branded-social-button.branded-social-button:hover, body.piano-id-modal .branded-social-button.branded-social-button:focus {
+  background-color: #f2f2f2;
+}
+body.piano-id-modal .branded-social-button.branded-social-button:active {
+  background-color: #e5e5e5;
+}
+body.piano-id-modal social-sign-in {
+  display: block;
+  width: 100%;
+}
+body.piano-id-modal social-sign-in .wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+body.piano-id-modal .input-group input {
+  border-radius: 1.5rem;
+  border: 1px solid rgba(15, 15, 21, 0.2);
+}
+body.piano-id-modal .p-text--action .p-text__content {
+  font-size: var(--wp--custom--typography-preset--heading-md--style--font-size);
+  font-style: var(--wp--custom--typography-preset--heading-md--style--font-style);
+  font-weight: var(--wp--custom--typography-preset--heading-md--style--font-weight);
+  letter-spacing: var(--wp--custom--typography-preset--heading-md--style--letter-spacing);
+  line-height: var(--wp--custom--typography-preset--heading-md--style--line-height);
+  -webkit-text-decoration: var(--wp--custom--typography-preset--heading-md--style--text-decoration);
+          text-decoration: var(--wp--custom--typography-preset--heading-md--style--text-decoration);
+  text-transform: var(--wp--custom--typography-preset--heading-md--style--text-transform);
+}
+body.piano-id-modal .p-text--desc.p-small .p-text__content {
+  font-size: var(--wp--custom--typography-preset--body-sm--style--font-size);
+  font-style: var(--wp--custom--typography-preset--body-sm--style--font-style);
+  font-weight: var(--wp--custom--typography-preset--body-sm--style--font-weight);
+  letter-spacing: var(--wp--custom--typography-preset--body-sm--style--letter-spacing);
+  line-height: var(--wp--custom--typography-preset--body-sm--style--line-height);
+  -webkit-text-decoration: var(--wp--custom--typography-preset--body-sm--style--text-decoration);
+          text-decoration: var(--wp--custom--typography-preset--body-sm--style--text-decoration);
+  text-transform: var(--wp--custom--typography-preset--body-sm--style--text-transform);
+}
+body.piano-id-modal .p-text--desc.p-xsmall .p-text__content {
+  font-size: var(--wp--custom--typography-preset--body-xs--style--font-size);
+  font-style: var(--wp--custom--typography-preset--body-xs--style--font-style);
+  font-weight: var(--wp--custom--typography-preset--body-xs--style--font-weight);
+  letter-spacing: var(--wp--custom--typography-preset--body-xs--style--letter-spacing);
+  line-height: var(--wp--custom--typography-preset--body-xs--style--line-height);
+  -webkit-text-decoration: var(--wp--custom--typography-preset--body-xs--style--text-decoration);
+          text-decoration: var(--wp--custom--typography-preset--body-xs--style--text-decoration);
+  text-transform: var(--wp--custom--typography-preset--body-xs--style--text-transform);
+}
+
+/*# sourceMappingURL=piano.css.map*/
