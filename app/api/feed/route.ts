@@ -390,7 +390,7 @@ ${allEpisodes.flatMap(episode => {
       <itunes:title>${escapeXml(itemTitle)}</itunes:title>
       <itunes:summary>${escapeXml(itemTitle)}</itunes:summary>
       <itunes:image href="${escapeXml(thumbnail)}"/>
-      <itunes:duration>7200</itunes:duration>
+      <itunes:duration>3600</itunes:duration>
     </item>`;
   });
 }).join('')}
