@@ -9,8 +9,8 @@
     <description>American Routes is a weekly two-hour public radio program produced in New Orleans, presenting the breadth and depth of the American musical and cultural landscape.</description>
     <language>en-us</language>
     <copyright>American Routes</copyright>
-    <lastBuildDate>Sat, 09 May 2026 14:49:48 GMT</lastBuildDate>
-    <pubDate>Sat, 09 May 2026 14:49:48 GMT</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 20:20:54 GMT</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 20:20:54 GMT</pubDate>
     <generator>amroutes rss generator</generator>
 
     <itunes:author>American Routes</itunes:author>
@@ -33,6 +33,230 @@
 
     <atom:link href="http://localhost:3000/api/feed" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>Sonny Rollins &amp; Bob French - Hour One</title>
+      <link>https://www.amroutes.org/june-2026/2625</link>
+      <description>Sonny Rollins &amp; Bob French - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/june-2026/2625#hour-1</guid>
+      <pubDate>Mon, 29 Jun 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2625_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Sonny Rollins &amp; Bob French - Hour One</itunes:title>
+      <itunes:summary>Sonny Rollins &amp; Bob French - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1712784518921-UCCTVUHKJT1BJEQ98TOB/JazzFest_SonnyRollins_web1.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Sonny Rollins &amp; Bob French - Hour Two</title>
+      <link>https://www.amroutes.org/june-2026/2625</link>
+      <description>Sonny Rollins &amp; Bob French - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/june-2026/2625#hour-2</guid>
+      <pubDate>Mon, 29 Jun 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2625_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Sonny Rollins &amp; Bob French - Hour Two</itunes:title>
+      <itunes:summary>Sonny Rollins &amp; Bob French - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1712784518921-UCCTVUHKJT1BJEQ98TOB/JazzFest_SonnyRollins_web1.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Juneteenth with the Gullah Geechee Ring Shouters - Hour One</title>
+      <link>https://www.amroutes.org/june-2026/2624</link>
+      <description>Juneteenth with the Gullah Geechee Ring Shouters - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/june-2026/2624#hour-1</guid>
+      <pubDate>Mon, 22 Jun 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2025/2525_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Juneteenth with the Gullah Geechee Ring Shouters - Hour One</itunes:title>
+      <itunes:summary>Juneteenth with the Gullah Geechee Ring Shouters - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1736890832453-AY7FM98TMWG18BHOENLW/GullahGeecheeRingShouters.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Juneteenth with the Gullah Geechee Ring Shouters - Hour Two</title>
+      <link>https://www.amroutes.org/june-2026/2624</link>
+      <description>Juneteenth with the Gullah Geechee Ring Shouters - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/june-2026/2624#hour-2</guid>
+      <pubDate>Mon, 22 Jun 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2624_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Juneteenth with the Gullah Geechee Ring Shouters - Hour Two</itunes:title>
+      <itunes:summary>Juneteenth with the Gullah Geechee Ring Shouters - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1736890832453-AY7FM98TMWG18BHOENLW/GullahGeecheeRingShouters.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Blues–The Universal Solvent &amp; Little Freddie King Live - Hour One</title>
+      <link>https://www.amroutes.org/june-2026/2623</link>
+      <description>Blues–The Universal Solvent &amp; Little Freddie King Live - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/june-2026/2623#hour-1</guid>
+      <pubDate>Mon, 15 Jun 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2623_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Blues–The Universal Solvent &amp; Little Freddie King Live - Hour One</itunes:title>
+      <itunes:summary>Blues–The Universal Solvent &amp; Little Freddie King Live - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1750267334369-KU1VCIB1DT22G0JK4VOP/littlefreddieking2-1611617754.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Blues–The Universal Solvent &amp; Little Freddie King Live - Hour Two</title>
+      <link>https://www.amroutes.org/june-2026/2623</link>
+      <description>Blues–The Universal Solvent &amp; Little Freddie King Live - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/june-2026/2623#hour-2</guid>
+      <pubDate>Mon, 15 Jun 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2623_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Blues–The Universal Solvent &amp; Little Freddie King Live - Hour Two</itunes:title>
+      <itunes:summary>Blues–The Universal Solvent &amp; Little Freddie King Live - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1750267334369-KU1VCIB1DT22G0JK4VOP/littlefreddieking2-1611617754.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Give the Drummer Some: with Earl Palmer, JM Van Eaton, Adonis Rose, the New Orleans Jazz Orchestra - Hour One</title>
+      <link>https://www.amroutes.org/june-2026/2622</link>
+      <description>Give the Drummer Some: with Earl Palmer, JM Van Eaton, Adonis Rose, the New Orleans Jazz Orchestra - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/june-2026/2622#hour-1</guid>
+      <pubDate>Mon, 08 Jun 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2025/2507_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Give the Drummer Some: with Earl Palmer, JM Van Eaton, Adonis Rose, the New Orleans Jazz Orchestra - Hour One</itunes:title>
+      <itunes:summary>Give the Drummer Some: with Earl Palmer, JM Van Eaton, Adonis Rose, the New Orleans Jazz Orchestra - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1712854385304-R5PLIC5LSC4IJONEPYXC/adonisrose-1650298978.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Give the Drummer Some: with Earl Palmer, JM Van Eaton, Adonis Rose, the New Orleans Jazz Orchestra - Hour Two</title>
+      <link>https://www.amroutes.org/june-2026/2622</link>
+      <description>Give the Drummer Some: with Earl Palmer, JM Van Eaton, Adonis Rose, the New Orleans Jazz Orchestra - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/june-2026/2622#hour-2</guid>
+      <pubDate>Mon, 08 Jun 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2622_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Give the Drummer Some: with Earl Palmer, JM Van Eaton, Adonis Rose, the New Orleans Jazz Orchestra - Hour Two</itunes:title>
+      <itunes:summary>Give the Drummer Some: with Earl Palmer, JM Van Eaton, Adonis Rose, the New Orleans Jazz Orchestra - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1712854385304-R5PLIC5LSC4IJONEPYXC/adonisrose-1650298978.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Antique and Modern Music New Orleans Style: Corey Henry and the Treme Funktet - Hour One</title>
+      <link>https://www.amroutes.org/may-2026/2621</link>
+      <description>Antique and Modern Music New Orleans Style: Corey Henry and the Treme Funktet - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/may-2026/2621#hour-1</guid>
+      <pubDate>Mon, 25 May 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2025/2508_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Antique and Modern Music New Orleans Style: Corey Henry and the Treme Funktet - Hour One</itunes:title>
+      <itunes:summary>Antique and Modern Music New Orleans Style: Corey Henry and the Treme Funktet - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713562033594-IB4RHQDYVR3HEHOXI87F/CoreyHenry-4-1647987001.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Antique and Modern Music New Orleans Style: Corey Henry and the Treme Funktet - Hour Two</title>
+      <link>https://www.amroutes.org/may-2026/2621</link>
+      <description>Antique and Modern Music New Orleans Style: Corey Henry and the Treme Funktet - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/may-2026/2621#hour-2</guid>
+      <pubDate>Mon, 25 May 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2621_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Antique and Modern Music New Orleans Style: Corey Henry and the Treme Funktet - Hour Two</itunes:title>
+      <itunes:summary>Antique and Modern Music New Orleans Style: Corey Henry and the Treme Funktet - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713562033594-IB4RHQDYVR3HEHOXI87F/CoreyHenry-4-1647987001.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Memorial Day with the 2025 National Heritage Fellows - Hour One</title>
+      <link>https://www.amroutes.org/may-2026/2620</link>
+      <description>Memorial Day with the 2025 National Heritage Fellows - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/may-2026/2620#hour-1</guid>
+      <pubDate>Mon, 18 May 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2620_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Memorial Day with the 2025 National Heritage Fellows - Hour One</itunes:title>
+      <itunes:summary>Memorial Day with the 2025 National Heritage Fellows - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/8f9de456-e3c1-4ca6-8f03-940c4e666b1b/2025Heritage-AnnouncementCollage-HIREZ-2.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Memorial Day with the 2025 National Heritage Fellows - Hour Two</title>
+      <link>https://www.amroutes.org/may-2026/2620</link>
+      <description>Memorial Day with the 2025 National Heritage Fellows - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/may-2026/2620#hour-2</guid>
+      <pubDate>Mon, 18 May 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2620_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Memorial Day with the 2025 National Heritage Fellows - Hour Two</itunes:title>
+      <itunes:summary>Memorial Day with the 2025 National Heritage Fellows - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/8f9de456-e3c1-4ca6-8f03-940c4e666b1b/2025Heritage-AnnouncementCollage-HIREZ-2.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Celebrating 50 Years of BeauSoleil Live - Hour One</title>
+      <link>https://www.amroutes.org/may-2026/2619</link>
+      <description>Celebrating 50 Years of BeauSoleil Live - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/may-2026/2619#hour-1</guid>
+      <pubDate>Mon, 11 May 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2619_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Celebrating 50 Years of BeauSoleil Live - Hour One</itunes:title>
+      <itunes:summary>Celebrating 50 Years of BeauSoleil Live - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1725051873250-3M0FSXTD0ZHT0DW2A0SJ/Beausoleil_PhilipGould.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Celebrating 50 Years of BeauSoleil Live - Hour Two</title>
+      <link>https://www.amroutes.org/may-2026/2619</link>
+      <description>Celebrating 50 Years of BeauSoleil Live - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/may-2026/2619#hour-2</guid>
+      <pubDate>Mon, 11 May 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2619_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Celebrating 50 Years of BeauSoleil Live - Hour Two</itunes:title>
+      <itunes:summary>Celebrating 50 Years of BeauSoleil Live - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1725051873250-3M0FSXTD0ZHT0DW2A0SJ/Beausoleil_PhilipGould.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>New Orleans Tunes and Talk with Wendell Brunious &amp; Comedy and Critique from Susan Werner - Hour One</title>
+      <link>https://www.amroutes.org/may-2026/2618</link>
+      <description>New Orleans Tunes and Talk with Wendell Brunious &amp; Comedy and Critique from Susan Werner - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/may-2026/2618#hour-1</guid>
+      <pubDate>Mon, 04 May 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2618_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>New Orleans Tunes and Talk with Wendell Brunious &amp; Comedy and Critique from Susan Werner - Hour One</itunes:title>
+      <itunes:summary>New Orleans Tunes and Talk with Wendell Brunious &amp; Comedy and Critique from Susan Werner - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1711901198191-11CESCDBEYDGO7JYKEFE/293292799_563599268625612_6837751919624207605_n-1698084484.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>New Orleans Tunes and Talk with Wendell Brunious &amp; Comedy and Critique from Susan Werner - Hour Two</title>
+      <link>https://www.amroutes.org/may-2026/2618</link>
+      <description>New Orleans Tunes and Talk with Wendell Brunious &amp; Comedy and Critique from Susan Werner - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/may-2026/2618#hour-2</guid>
+      <pubDate>Mon, 04 May 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2618_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>New Orleans Tunes and Talk with Wendell Brunious &amp; Comedy and Critique from Susan Werner - Hour Two</itunes:title>
+      <itunes:summary>New Orleans Tunes and Talk with Wendell Brunious &amp; Comedy and Critique from Susan Werner - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1711901198191-11CESCDBEYDGO7JYKEFE/293292799_563599268625612_6837751919624207605_n-1698084484.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
     <item>
       <title>Flying with the Byrds &amp; the Burritos on American Routes Airlines - Hour One</title>
       <link>https://www.amroutes.org/april-2026/2617</link>
@@ -1384,24 +1608,10 @@
       <guid isPermaLink="false">https://www.amroutes.org/may-2025/2522#hour-1</guid>
       <pubDate>Mon, 26 May 2025 04:00:00 GMT</pubDate>
 
-      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/6835e74a21b9641bb6dcd15f/1711939243396/2323_01.mp3/original/2323_01.mp3" type="audio/mpeg"/>
+      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2025/2522_02.mp3" type="audio/mpeg"/>
 
       <itunes:title>Blues and Jazz, African Roots and Branches with Shemekia Copeland and Balla Kouyaté - Hour One</itunes:title>
       <itunes:summary>Blues and Jazz, African Roots and Branches with Shemekia Copeland and Balla Kouyaté - Hour One</itunes:summary>
-      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713394429620-9N8ZUFMNUG89FWQV0MY3/Smile.ShemekiaCopeland_0408_byMikeWhite-1200x1677-1651784625.jpg"/>
-      <itunes:duration>3600</itunes:duration>
-    </item>
-    <item>
-      <title>Blues and Jazz, African Roots and Branches with Shemekia Copeland and Balla Kouyaté - Hour Two</title>
-      <link>https://www.amroutes.org/may-2025/2522</link>
-      <description>Blues and Jazz, African Roots and Branches with Shemekia Copeland and Balla Kouyaté - Hour Two</description>
-      <guid isPermaLink="false">https://www.amroutes.org/may-2025/2522#hour-2</guid>
-      <pubDate>Mon, 26 May 2025 04:00:00 GMT</pubDate>
-
-      <enclosure url="https://americanroutesnewsite.s3.us-east-2.amazonaws.com/2025/2522_02.mp3" type="audio/mpeg"/>
-
-      <itunes:title>Blues and Jazz, African Roots and Branches with Shemekia Copeland and Balla Kouyaté - Hour Two</itunes:title>
-      <itunes:summary>Blues and Jazz, African Roots and Branches with Shemekia Copeland and Balla Kouyaté - Hour Two</itunes:summary>
       <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713394429620-9N8ZUFMNUG89FWQV0MY3/Smile.ShemekiaCopeland_0408_byMikeWhite-1200x1677-1651784625.jpg"/>
       <itunes:duration>3600</itunes:duration>
     </item>
@@ -2386,39 +2596,11 @@
       <itunes:duration>3600</itunes:duration>
     </item>
     <item>
-      <title>Santana Speaks: with Celia Cruz, Tito Puente and Los Lobos - Hour One</title>
-      <link>https://www.amroutes.org/september-2024-1/2438</link>
-      <description>Santana Speaks: with Celia Cruz, Tito Puente and Los Lobos - Hour One</description>
-      <guid isPermaLink="false">https://www.amroutes.org/september-2024-1/2438#hour-1</guid>
-      <pubDate>Mon, 23 Sep 2024 04:00:00 GMT</pubDate>
-
-      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/66e85aac613fd97ea833792b/1726503921218/2438_01.mp3/original/2438_01.mp3" type="audio/mpeg"/>
-
-      <itunes:title>Santana Speaks: with Celia Cruz, Tito Puente and Los Lobos - Hour One</itunes:title>
-      <itunes:summary>Santana Speaks: with Celia Cruz, Tito Puente and Los Lobos - Hour One</itunes:summary>
-      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713561619478-7N6ELHT05J91KX8OKKGF/ALT20-19Santana-1572372213-1589990159.jpg"/>
-      <itunes:duration>3600</itunes:duration>
-    </item>
-    <item>
-      <title>Santana Speaks: with Celia Cruz, Tito Puente and Los Lobos - Hour Two</title>
-      <link>https://www.amroutes.org/september-2024-1/2438</link>
-      <description>Santana Speaks: with Celia Cruz, Tito Puente and Los Lobos - Hour Two</description>
-      <guid isPermaLink="false">https://www.amroutes.org/september-2024-1/2438#hour-2</guid>
-      <pubDate>Mon, 23 Sep 2024 04:00:00 GMT</pubDate>
-
-      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/66e85c0e479f33444f3c9b79/1726504339089/2438_02.mp3/original/2438_02.mp3" type="audio/mpeg"/>
-
-      <itunes:title>Santana Speaks: with Celia Cruz, Tito Puente and Los Lobos - Hour Two</itunes:title>
-      <itunes:summary>Santana Speaks: with Celia Cruz, Tito Puente and Los Lobos - Hour Two</itunes:summary>
-      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713561619478-7N6ELHT05J91KX8OKKGF/ALT20-19Santana-1572372213-1589990159.jpg"/>
-      <itunes:duration>3600</itunes:duration>
-    </item>
-    <item>
       <title>Blues Routes Then &amp; Now: with a Creole &amp; Cajun Live Set from Cedric Watson &amp; Chris Stafford - Hour One</title>
       <link>https://www.amroutes.org/september-2024-1/2437</link>
       <description>Blues Routes Then &amp; Now: with a Creole &amp; Cajun Live Set from Cedric Watson &amp; Chris Stafford - Hour One</description>
       <guid isPermaLink="false">https://www.amroutes.org/september-2024-1/2437#hour-1</guid>
-      <pubDate>Mon, 16 Sep 2024 04:00:00 GMT</pubDate>
+      <pubDate>Mon, 23 Sep 2024 04:00:00 GMT</pubDate>
 
       <enclosure url="https://ditifwky3d74f.cloudfront.net/2024/2437_01.mp3" type="audio/mpeg"/>
 
@@ -2432,7 +2614,7 @@
       <link>https://www.amroutes.org/september-2024-1/2437</link>
       <description>Blues Routes Then &amp; Now: with a Creole &amp; Cajun Live Set from Cedric Watson &amp; Chris Stafford - Hour Two</description>
       <guid isPermaLink="false">https://www.amroutes.org/september-2024-1/2437#hour-2</guid>
-      <pubDate>Mon, 16 Sep 2024 04:00:00 GMT</pubDate>
+      <pubDate>Mon, 23 Sep 2024 04:00:00 GMT</pubDate>
 
       <enclosure url="https://ditifwky3d74f.cloudfront.net/2024/2437_02.mp3" type="audio/mpeg"/>
 
@@ -2446,7 +2628,7 @@
       <link>https://www.amroutes.org/september-2024-1/2436</link>
       <description>American Routes Live &amp; 50 Years of Beausoleil Part II - Hour One</description>
       <guid isPermaLink="false">https://www.amroutes.org/september-2024-1/2436#hour-1</guid>
-      <pubDate>Mon, 09 Sep 2024 04:00:00 GMT</pubDate>
+      <pubDate>Mon, 16 Sep 2024 04:00:00 GMT</pubDate>
 
       <enclosure url="https://ditifwky3d74f.cloudfront.net/2024/2436_01.mp3" type="audio/mpeg"/>
 
@@ -2460,7 +2642,7 @@
       <link>https://www.amroutes.org/september-2024-1/2436</link>
       <description>American Routes Live &amp; 50 Years of Beausoleil Part II - Hour Two</description>
       <guid isPermaLink="false">https://www.amroutes.org/september-2024-1/2436#hour-2</guid>
-      <pubDate>Mon, 09 Sep 2024 04:00:00 GMT</pubDate>
+      <pubDate>Mon, 16 Sep 2024 04:00:00 GMT</pubDate>
 
       <enclosure url="https://ditifwky3d74f.cloudfront.net/2024/2436_02.mp3" type="audio/mpeg"/>
 
@@ -2803,34 +2985,6 @@
       <itunes:title>When is Father’s Day? - Hour Two</itunes:title>
       <itunes:summary>When is Father’s Day? - Hour Two</itunes:summary>
       <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1717781973072-IZ8QUQ916D14DAVA1FW6/Masakowskis-1528393153.jpg"/>
-      <itunes:duration>3600</itunes:duration>
-    </item>
-    <item>
-      <title>Empress of the Blues: Bessie Smith - Hour One</title>
-      <link>https://www.amroutes.org/june-2024-1/2423</link>
-      <description>Empress of the Blues: Bessie Smith - Hour One</description>
-      <guid isPermaLink="false">https://www.amroutes.org/june-2024-1/2423#hour-1</guid>
-      <pubDate>Mon, 03 Jun 2024 04:00:00 GMT</pubDate>
-
-      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/665df9906545c2031caf88ce/1717781855030/2423_01.mp3/original/2423_01.mp3" type="audio/mpeg"/>
-
-      <itunes:title>Empress of the Blues: Bessie Smith - Hour One</itunes:title>
-      <itunes:summary>Empress of the Blues: Bessie Smith - Hour One</itunes:summary>
-      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/d8f373a7-d789-46c6-a8aa-224ff6fe8e15/Bessie_Smith_%281936%29_by_Carl_Van_Vechten+%281%29.jpg"/>
-      <itunes:duration>3600</itunes:duration>
-    </item>
-    <item>
-      <title>Empress of the Blues: Bessie Smith - Hour Two</title>
-      <link>https://www.amroutes.org/june-2024-1/2423</link>
-      <description>Empress of the Blues: Bessie Smith - Hour Two</description>
-      <guid isPermaLink="false">https://www.amroutes.org/june-2024-1/2423#hour-2</guid>
-      <pubDate>Mon, 03 Jun 2024 04:00:00 GMT</pubDate>
-
-      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/665dfc30a9055927b9b19e58/1717781855035/2423_02.mp3/original/2423_02.mp3" type="audio/mpeg"/>
-
-      <itunes:title>Empress of the Blues: Bessie Smith - Hour Two</itunes:title>
-      <itunes:summary>Empress of the Blues: Bessie Smith - Hour Two</itunes:summary>
-      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/d8f373a7-d789-46c6-a8aa-224ff6fe8e15/Bessie_Smith_%281936%29_by_Carl_Van_Vechten+%281%29.jpg"/>
       <itunes:duration>3600</itunes:duration>
     </item>
     <item>
@@ -3366,39 +3520,11 @@
       <itunes:duration>3600</itunes:duration>
     </item>
     <item>
-      <title>MAKING MUSIC ON RECORDS &amp; EXCAVATING SHELLAC - Hour One</title>
-      <link>https://www.amroutes.org/blog-3-1/blog-post-title-two-4abl7-ltnbn-t9l6g-4fxbd</link>
-      <description>MAKING MUSIC ON RECORDS &amp; EXCAVATING SHELLAC - Hour One</description>
-      <guid isPermaLink="false">https://www.amroutes.org/blog-3-1/blog-post-title-two-4abl7-ltnbn-t9l6g-4fxbd#hour-1</guid>
-      <pubDate>Mon, 15 Jan 2024 05:00:00 GMT</pubDate>
-
-      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/660d2216a93fcd5cfe077e3c/1712137232491/2404_01.mp3/original/2404_01.mp3" type="audio/mpeg"/>
-
-      <itunes:title>MAKING MUSIC ON RECORDS &amp; EXCAVATING SHELLAC - Hour One</itunes:title>
-      <itunes:summary>MAKING MUSIC ON RECORDS &amp; EXCAVATING SHELLAC - Hour One</itunes:summary>
-      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/31cb0592-55ce-46e2-8b28-deba62fba0f6/a1912110327_10-1705101876.jpeg"/>
-      <itunes:duration>3600</itunes:duration>
-    </item>
-    <item>
-      <title>MAKING MUSIC ON RECORDS &amp; EXCAVATING SHELLAC - Hour Two</title>
-      <link>https://www.amroutes.org/blog-3-1/blog-post-title-two-4abl7-ltnbn-t9l6g-4fxbd</link>
-      <description>MAKING MUSIC ON RECORDS &amp; EXCAVATING SHELLAC - Hour Two</description>
-      <guid isPermaLink="false">https://www.amroutes.org/blog-3-1/blog-post-title-two-4abl7-ltnbn-t9l6g-4fxbd#hour-2</guid>
-      <pubDate>Mon, 15 Jan 2024 05:00:00 GMT</pubDate>
-
-      <enclosure url="https://static1.squarespace.com/static/6608b67820a1e41cb804e883/t/660d22c4ba0e162a5c098e34/1712137232494/2404_02.mp3/original/2404_02.mp3" type="audio/mpeg"/>
-
-      <itunes:title>MAKING MUSIC ON RECORDS &amp; EXCAVATING SHELLAC - Hour Two</itunes:title>
-      <itunes:summary>MAKING MUSIC ON RECORDS &amp; EXCAVATING SHELLAC - Hour Two</itunes:summary>
-      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/31cb0592-55ce-46e2-8b28-deba62fba0f6/a1912110327_10-1705101876.jpeg"/>
-      <itunes:duration>3600</itunes:duration>
-    </item>
-    <item>
       <title>NORTH AMERICAN ROUTES FROM SOUTH LOUISIANA TO CAPE BRETON WITH THE SAVOY-DOUCET CAJUN BAND AND BEÒLACH - Hour One</title>
       <link>https://www.amroutes.org/blog-3-1/blog-post-title-two-4abl7-ltnbn-t9l6g</link>
       <description>NORTH AMERICAN ROUTES FROM SOUTH LOUISIANA TO CAPE BRETON WITH THE SAVOY-DOUCET CAJUN BAND AND BEÒLACH - Hour One</description>
       <guid isPermaLink="false">https://www.amroutes.org/blog-3-1/blog-post-title-two-4abl7-ltnbn-t9l6g#hour-1</guid>
-      <pubDate>Mon, 08 Jan 2024 05:00:00 GMT</pubDate>
+      <pubDate>Mon, 15 Jan 2024 05:00:00 GMT</pubDate>
 
       <enclosure url="https://ditifwky3d74f.cloudfront.net/2024/2403_01.mp3" type="audio/mpeg"/>
 
@@ -3412,7 +3538,7 @@
       <link>https://www.amroutes.org/blog-3-1/blog-post-title-two-4abl7-ltnbn-t9l6g</link>
       <description>NORTH AMERICAN ROUTES FROM SOUTH LOUISIANA TO CAPE BRETON WITH THE SAVOY-DOUCET CAJUN BAND AND BEÒLACH - Hour Two</description>
       <guid isPermaLink="false">https://www.amroutes.org/blog-3-1/blog-post-title-two-4abl7-ltnbn-t9l6g#hour-2</guid>
-      <pubDate>Mon, 08 Jan 2024 05:00:00 GMT</pubDate>
+      <pubDate>Mon, 15 Jan 2024 05:00:00 GMT</pubDate>
 
       <enclosure url="https://ditifwky3d74f.cloudfront.net/2024/2403_02.mp3" type="audio/mpeg"/>
 
@@ -3426,7 +3552,7 @@
       <link>https://www.amroutes.org/blog-3-1/blog-post-title-two-4abl7-ltnbn</link>
       <description>IN THE SPIRIT OF MARTIN LUTHER KING, JR. WITH CYRIL NEVILLE - Hour One</description>
       <guid isPermaLink="false">https://www.amroutes.org/blog-3-1/blog-post-title-two-4abl7-ltnbn#hour-1</guid>
-      <pubDate>Mon, 01 Jan 2024 05:00:00 GMT</pubDate>
+      <pubDate>Mon, 08 Jan 2024 05:00:00 GMT</pubDate>
 
       <enclosure url="https://ditifwky3d74f.cloudfront.net/2024/2402_02.mp3" type="audio/mpeg"/>
 
@@ -3440,7 +3566,7 @@
       <link>https://www.amroutes.org/blog-3-1/blog-post-title-two-4abl7-ltnbn</link>
       <description>IN THE SPIRIT OF MARTIN LUTHER KING, JR. WITH CYRIL NEVILLE - Hour Two</description>
       <guid isPermaLink="false">https://www.amroutes.org/blog-3-1/blog-post-title-two-4abl7-ltnbn#hour-2</guid>
-      <pubDate>Mon, 01 Jan 2024 05:00:00 GMT</pubDate>
+      <pubDate>Mon, 08 Jan 2024 05:00:00 GMT</pubDate>
 
       <enclosure url="https://ditifwky3d74f.cloudfront.net/2024/2402_02.mp3" type="audio/mpeg"/>
 
