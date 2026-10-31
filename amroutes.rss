@@ -9,8 +9,8 @@
     <description>American Routes is a weekly two-hour public radio program produced in New Orleans, presenting the breadth and depth of the American musical and cultural landscape.</description>
     <language>en-us</language>
     <copyright>American Routes</copyright>
-    <lastBuildDate>Sun, 28 Jun 2026 20:20:54 GMT</lastBuildDate>
-    <pubDate>Sun, 28 Jun 2026 20:20:54 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:50:58 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 12:50:58 GMT</pubDate>
     <generator>amroutes rss generator</generator>
 
     <itunes:author>American Routes</itunes:author>
@@ -33,6 +33,510 @@
 
     <atom:link href="http://localhost:3000/api/feed" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>I Put a Spell on You: Halloween &apos;26 - Hour One</title>
+      <link>https://www.amroutes.org/october-2026/2643</link>
+      <description>I Put a Spell on You: Halloween &apos;26 - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/october-2026/2643#hour-1</guid>
+      <pubDate>Mon, 26 Oct 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2643_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>I Put a Spell on You: Halloween &apos;26 - Hour One</itunes:title>
+      <itunes:summary>I Put a Spell on You: Halloween &apos;26 - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1732640312134-D64R4OOO2LFBH53YEESX/Shannon_and_the_Clams_Halloween-1539963240.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>I Put a Spell on You: Halloween &apos;26 - Hour Two</title>
+      <link>https://www.amroutes.org/october-2026/2643</link>
+      <description>I Put a Spell on You: Halloween &apos;26 - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/october-2026/2643#hour-2</guid>
+      <pubDate>Mon, 26 Oct 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2643_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>I Put a Spell on You: Halloween &apos;26 - Hour Two</itunes:title>
+      <itunes:summary>I Put a Spell on You: Halloween &apos;26 - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1732640312134-D64R4OOO2LFBH53YEESX/Shannon_and_the_Clams_Halloween-1539963240.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>New Orleans Jazz Banjo/Guitarist Danny Barker &amp; American Routes Live with Detroit Brooks and his Syncopated Percolators - Hour One</title>
+      <link>https://www.amroutes.org/october-2026/2642</link>
+      <description>New Orleans Jazz Banjo/Guitarist Danny Barker &amp; American Routes Live with Detroit Brooks and his Syncopated Percolators - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/october-2026/2642#hour-1</guid>
+      <pubDate>Mon, 19 Oct 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2642_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>New Orleans Jazz Banjo/Guitarist Danny Barker &amp; American Routes Live with Detroit Brooks and his Syncopated Percolators - Hour One</itunes:title>
+      <itunes:summary>New Orleans Jazz Banjo/Guitarist Danny Barker &amp; American Routes Live with Detroit Brooks and his Syncopated Percolators - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1711908185690-M90DIQLFZ4TVTD53N7DP/MRDannyLuBarker-1677015832-1695055419.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>New Orleans Jazz Banjo/Guitarist Danny Barker &amp; American Routes Live with Detroit Brooks and his Syncopated Percolators - Hour Two</title>
+      <link>https://www.amroutes.org/october-2026/2642</link>
+      <description>New Orleans Jazz Banjo/Guitarist Danny Barker &amp; American Routes Live with Detroit Brooks and his Syncopated Percolators - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/october-2026/2642#hour-2</guid>
+      <pubDate>Mon, 19 Oct 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2642_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>New Orleans Jazz Banjo/Guitarist Danny Barker &amp; American Routes Live with Detroit Brooks and his Syncopated Percolators - Hour Two</itunes:title>
+      <itunes:summary>New Orleans Jazz Banjo/Guitarist Danny Barker &amp; American Routes Live with Detroit Brooks and his Syncopated Percolators - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1711908185690-M90DIQLFZ4TVTD53N7DP/MRDannyLuBarker-1677015832-1695055419.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>New Orleans Jazz &amp; Baton Rouge Blues…With an Ethio-Jazz Excursion - Hour One</title>
+      <link>https://www.amroutes.org/october-2026/2641</link>
+      <description>New Orleans Jazz &amp; Baton Rouge Blues…With an Ethio-Jazz Excursion - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/october-2026/2641#hour-1</guid>
+      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2641_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>New Orleans Jazz &amp; Baton Rouge Blues…With an Ethio-Jazz Excursion - Hour One</itunes:title>
+      <itunes:summary>New Orleans Jazz &amp; Baton Rouge Blues…With an Ethio-Jazz Excursion - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1775253453703-FT8VDTZ6K7ITRZU8LDLQ/a2134851966_1x1_700.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>New Orleans Jazz &amp; Baton Rouge Blues…With an Ethio-Jazz Excursion - Hour Two</title>
+      <link>https://www.amroutes.org/october-2026/2641</link>
+      <description>New Orleans Jazz &amp; Baton Rouge Blues…With an Ethio-Jazz Excursion - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/october-2026/2641#hour-2</guid>
+      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2641_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>New Orleans Jazz &amp; Baton Rouge Blues…With an Ethio-Jazz Excursion - Hour Two</itunes:title>
+      <itunes:summary>New Orleans Jazz &amp; Baton Rouge Blues…With an Ethio-Jazz Excursion - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1775253453703-FT8VDTZ6K7ITRZU8LDLQ/a2134851966_1x1_700.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Live with Piano Prince Davell Crawford and Native American Songs and Sounds from Pow-Wow to Pop - Hour One</title>
+      <link>https://www.amroutes.org/october-2026/2640</link>
+      <description>Live with Piano Prince Davell Crawford and Native American Songs and Sounds from Pow-Wow to Pop - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/october-2026/2640#hour-1</guid>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2640_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Live with Piano Prince Davell Crawford and Native American Songs and Sounds from Pow-Wow to Pop - Hour One</itunes:title>
+      <itunes:summary>Live with Piano Prince Davell Crawford and Native American Songs and Sounds from Pow-Wow to Pop - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1712870974532-K1RKV0UNL9LKSSWFHL7M/davell_crawford_poster.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Live with Piano Prince Davell Crawford and Native American Songs and Sounds from Pow-Wow to Pop - Hour Two</title>
+      <link>https://www.amroutes.org/october-2026/2640</link>
+      <description>Live with Piano Prince Davell Crawford and Native American Songs and Sounds from Pow-Wow to Pop - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/october-2026/2640#hour-2</guid>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2640_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Live with Piano Prince Davell Crawford and Native American Songs and Sounds from Pow-Wow to Pop - Hour Two</itunes:title>
+      <itunes:summary>Live with Piano Prince Davell Crawford and Native American Songs and Sounds from Pow-Wow to Pop - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1712870974532-K1RKV0UNL9LKSSWFHL7M/davell_crawford_poster.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Blue Note Records: Then and Now with Don Was - Hour One</title>
+      <link>https://www.amroutes.org/september-2026/2639</link>
+      <description>Blue Note Records: Then and Now with Don Was - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/september-2026/2639#hour-1</guid>
+      <pubDate>Mon, 28 Sep 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2639_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Blue Note Records: Then and Now with Don Was - Hour One</itunes:title>
+      <itunes:summary>Blue Note Records: Then and Now with Don Was - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1730766703766-6WFOKDRM7B5I525PHPKC/thelonious_monk-1517004801.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Blue Note Records: Then and Now with Don Was - Hour Two</title>
+      <link>https://www.amroutes.org/september-2026/2639</link>
+      <description>Blue Note Records: Then and Now with Don Was - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/september-2026/2639#hour-2</guid>
+      <pubDate>Mon, 28 Sep 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2639_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Blue Note Records: Then and Now with Don Was - Hour Two</itunes:title>
+      <itunes:summary>Blue Note Records: Then and Now with Don Was - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1730766703766-6WFOKDRM7B5I525PHPKC/thelonious_monk-1517004801.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Midnight Special, Shine a Light on Me: Prison Music from Angola, Louisiana &amp; Beyond - Hour One</title>
+      <link>https://www.amroutes.org/september-2026/2638</link>
+      <description>Midnight Special, Shine a Light on Me: Prison Music from Angola, Louisiana &amp; Beyond - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/september-2026/2638#hour-1</guid>
+      <pubDate>Mon, 21 Sep 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2638_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Midnight Special, Shine a Light on Me: Prison Music from Angola, Louisiana &amp; Beyond - Hour One</itunes:title>
+      <itunes:summary>Midnight Special, Shine a Light on Me: Prison Music from Angola, Louisiana &amp; Beyond - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1764082948388-R2SDUFM71XKE0OOPOIIC/CNeville_web-1506543810.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Midnight Special, Shine a Light on Me: Prison Music from Angola, Louisiana &amp; Beyond - Hour Two</title>
+      <link>https://www.amroutes.org/september-2026/2638</link>
+      <description>Midnight Special, Shine a Light on Me: Prison Music from Angola, Louisiana &amp; Beyond - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/september-2026/2638#hour-2</guid>
+      <pubDate>Mon, 21 Sep 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2638_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Midnight Special, Shine a Light on Me: Prison Music from Angola, Louisiana &amp; Beyond - Hour Two</itunes:title>
+      <itunes:summary>Midnight Special, Shine a Light on Me: Prison Music from Angola, Louisiana &amp; Beyond - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1764082948388-R2SDUFM71XKE0OOPOIIC/CNeville_web-1506543810.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>San Antonio Sounds - Hour One</title>
+      <link>https://www.amroutes.org/september-2026/2637</link>
+      <description>San Antonio Sounds - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/september-2026/2637#hour-1</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2637_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>San Antonio Sounds - Hour One</itunes:title>
+      <itunes:summary>San Antonio Sounds - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1712946377095-WKM159004ENMQ8HTRI6J/Flaco_and_Max_295-1502915131_medium.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>San Antonio Sounds - Hour Two</title>
+      <link>https://www.amroutes.org/september-2026/2637</link>
+      <description>San Antonio Sounds - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/september-2026/2637#hour-2</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2637_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>San Antonio Sounds - Hour Two</itunes:title>
+      <itunes:summary>San Antonio Sounds - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1712946377095-WKM159004ENMQ8HTRI6J/Flaco_and_Max_295-1502915131_medium.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Who was Harry Smith?: The Great Delineator and his Anthology of American Folk Music - Hour One</title>
+      <link>https://www.amroutes.org/september-2026/2636</link>
+      <description>Who was Harry Smith?: The Great Delineator and his Anthology of American Folk Music - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/september-2026/2636#hour-1</guid>
+      <pubDate>Mon, 07 Sep 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2636_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Who was Harry Smith?: The Great Delineator and his Anthology of American Folk Music - Hour One</itunes:title>
+      <itunes:summary>Who was Harry Smith?: The Great Delineator and his Anthology of American Folk Music - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1751993748294-WVD22SS6F506FD8AATGA/HarrySmith_byBrian+Graham.+From+his+collection+Absurdly+Is+King.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Who was Harry Smith?: The Great Delineator and his Anthology of American Folk Music - Hour Two</title>
+      <link>https://www.amroutes.org/september-2026/2636</link>
+      <description>Who was Harry Smith?: The Great Delineator and his Anthology of American Folk Music - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/september-2026/2636#hour-2</guid>
+      <pubDate>Mon, 07 Sep 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2636_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Who was Harry Smith?: The Great Delineator and his Anthology of American Folk Music - Hour Two</itunes:title>
+      <itunes:summary>Who was Harry Smith?: The Great Delineator and his Anthology of American Folk Music - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1751993748294-WVD22SS6F506FD8AATGA/HarrySmith_byBrian+Graham.+From+his+collection+Absurdly+Is+King.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>For Labor Day Weekend: The Best of American Routes Live - Hour One</title>
+      <link>https://www.amroutes.org/september-2026/2635</link>
+      <description>For Labor Day Weekend: The Best of American Routes Live - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/september-2026/2635#hour-1</guid>
+      <pubDate>Mon, 07 Sep 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url=" https://ditifwky3d74f.cloudfront.net/2023/2335_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>For Labor Day Weekend: The Best of American Routes Live - Hour One</itunes:title>
+      <itunes:summary>For Labor Day Weekend: The Best of American Routes Live - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713221939383-LIRJLZJO21AQRTFD4EMX/Leyla_McCalla-1554930761-1629752154.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>For Labor Day Weekend: The Best of American Routes Live - Hour Two</title>
+      <link>https://www.amroutes.org/september-2026/2635</link>
+      <description>For Labor Day Weekend: The Best of American Routes Live - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/september-2026/2635#hour-2</guid>
+      <pubDate>Mon, 07 Sep 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url=" https://ditifwky3d74f.cloudfront.net/2026/2635_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>For Labor Day Weekend: The Best of American Routes Live - Hour Two</itunes:title>
+      <itunes:summary>For Labor Day Weekend: The Best of American Routes Live - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713221939383-LIRJLZJO21AQRTFD4EMX/Leyla_McCalla-1554930761-1629752154.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Remembering Dolly Parton - Hour One</title>
+      <link>https://www.amroutes.org/august-2026/2634</link>
+      <description>Remembering Dolly Parton - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/august-2026/2634#hour-1</guid>
+      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2634_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Remembering Dolly Parton - Hour One</itunes:title>
+      <itunes:summary>Remembering Dolly Parton - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1717450390335-5W5NR126G73OEWOG8H98/Dolly+Parton.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Remembering Dolly Parton - Hour Two</title>
+      <link>https://www.amroutes.org/august-2026/2634</link>
+      <description>Remembering Dolly Parton - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/august-2026/2634#hour-2</guid>
+      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2634_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Remembering Dolly Parton - Hour Two</itunes:title>
+      <itunes:summary>Remembering Dolly Parton - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1717450390335-5W5NR126G73OEWOG8H98/Dolly+Parton.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>American Routes Staycations, Destinations and Summertime Variations - Hour One</title>
+      <link>https://www.amroutes.org/august-2026/2633</link>
+      <description>American Routes Staycations, Destinations and Summertime Variations - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/august-2026/2633#hour-1</guid>
+      <pubDate>Mon, 24 Aug 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2633_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>American Routes Staycations, Destinations and Summertime Variations - Hour One</itunes:title>
+      <itunes:summary>American Routes Staycations, Destinations and Summertime Variations - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1714548195645-COKJ19FZ99UX9QZZ9MYW/56029223cce0c13d391345a25f36fd03-1527006689-1628525103.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>American Routes Staycations, Destinations and Summertime Variations - Hour Two</title>
+      <link>https://www.amroutes.org/august-2026/2633</link>
+      <description>American Routes Staycations, Destinations and Summertime Variations - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/august-2026/2633#hour-2</guid>
+      <pubDate>Mon, 24 Aug 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2633_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>American Routes Staycations, Destinations and Summertime Variations - Hour Two</itunes:title>
+      <itunes:summary>American Routes Staycations, Destinations and Summertime Variations - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1714548195645-COKJ19FZ99UX9QZZ9MYW/56029223cce0c13d391345a25f36fd03-1527006689-1628525103.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Doo-Wop Golden Oldies–Black &amp; White Classics of the 50s, 60s and Now–with Dion! - Hour One</title>
+      <link>https://www.amroutes.org/august-2026/2632</link>
+      <description>Doo-Wop Golden Oldies–Black &amp; White Classics of the 50s, 60s and Now–with Dion! - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/august-2026/2632#hour-1</guid>
+      <pubDate>Mon, 17 Aug 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2632_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Doo-Wop Golden Oldies–Black &amp; White Classics of the 50s, 60s and Now–with Dion! - Hour One</itunes:title>
+      <itunes:summary>Doo-Wop Golden Oldies–Black &amp; White Classics of the 50s, 60s and Now–with Dion! - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713822935123-Q5U5GT22Q27GCND7GRTM/IMG_2325-1660671202.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Doo-Wop Golden Oldies–Black &amp; White Classics of the 50s, 60s and Now–with Dion! - Hour Two</title>
+      <link>https://www.amroutes.org/august-2026/2632</link>
+      <description>Doo-Wop Golden Oldies–Black &amp; White Classics of the 50s, 60s and Now–with Dion! - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/august-2026/2632#hour-2</guid>
+      <pubDate>Mon, 17 Aug 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2632_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Doo-Wop Golden Oldies–Black &amp; White Classics of the 50s, 60s and Now–with Dion! - Hour Two</itunes:title>
+      <itunes:summary>Doo-Wop Golden Oldies–Black &amp; White Classics of the 50s, 60s and Now–with Dion! - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713822935123-Q5U5GT22Q27GCND7GRTM/IMG_2325-1660671202.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>The Color of Music with Henry Butler &amp; Lonnie Holley - Hour One</title>
+      <link>https://www.amroutes.org/august-2026/2631</link>
+      <description>The Color of Music with Henry Butler &amp; Lonnie Holley - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/august-2026/2631#hour-1</guid>
+      <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2023/2303_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>The Color of Music with Henry Butler &amp; Lonnie Holley - Hour One</itunes:title>
+      <itunes:summary>The Color of Music with Henry Butler &amp; Lonnie Holley - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713482078054-KI2H2DODEVNTJ67AVGS1/Lonnie_003-1620924420.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>The Color of Music with Henry Butler &amp; Lonnie Holley - Hour Two</title>
+      <link>https://www.amroutes.org/august-2026/2631</link>
+      <description>The Color of Music with Henry Butler &amp; Lonnie Holley - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/august-2026/2631#hour-2</guid>
+      <pubDate>Mon, 10 Aug 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2631_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>The Color of Music with Henry Butler &amp; Lonnie Holley - Hour Two</itunes:title>
+      <itunes:summary>The Color of Music with Henry Butler &amp; Lonnie Holley - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713482078054-KI2H2DODEVNTJ67AVGS1/Lonnie_003-1620924420.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Summer Sounds—Being &amp; Staying Cool - Hour One</title>
+      <link>https://www.amroutes.org/july-2026/2630</link>
+      <description>Summer Sounds—Being &amp; Staying Cool - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/july-2026/2630#hour-1</guid>
+      <pubDate>Mon, 27 Jul 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2630_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Summer Sounds—Being &amp; Staying Cool - Hour One</itunes:title>
+      <itunes:summary>Summer Sounds—Being &amp; Staying Cool - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713391578329-WV1617S2EQX00EI3ZO2R/Ramsey+Lewis.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Summer Sounds—Being &amp; Staying Cool - Hour Two</title>
+      <link>https://www.amroutes.org/july-2026/2630</link>
+      <description>Summer Sounds—Being &amp; Staying Cool - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/july-2026/2630#hour-2</guid>
+      <pubDate>Mon, 27 Jul 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2630_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Summer Sounds—Being &amp; Staying Cool - Hour Two</itunes:title>
+      <itunes:summary>Summer Sounds—Being &amp; Staying Cool - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713391578329-WV1617S2EQX00EI3ZO2R/Ramsey+Lewis.jpeg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Reimagining Kentucky Country Music &amp; New Orleans Jazz with Kelsey Waldon and Aurora Nealand - Hour One</title>
+      <link>https://www.amroutes.org/july-2026/2629</link>
+      <description>Reimagining Kentucky Country Music &amp; New Orleans Jazz with Kelsey Waldon and Aurora Nealand - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/july-2026/2629#hour-1</guid>
+      <pubDate>Mon, 20 Jul 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2024/2447_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Reimagining Kentucky Country Music &amp; New Orleans Jazz with Kelsey Waldon and Aurora Nealand - Hour One</itunes:title>
+      <itunes:summary>Reimagining Kentucky Country Music &amp; New Orleans Jazz with Kelsey Waldon and Aurora Nealand - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1712477436301-S55F09I69A6NHBD3Z1ZG/reimagining+kentucky.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Reimagining Kentucky Country Music &amp; New Orleans Jazz with Kelsey Waldon and Aurora Nealand - Hour Two</title>
+      <link>https://www.amroutes.org/july-2026/2629</link>
+      <description>Reimagining Kentucky Country Music &amp; New Orleans Jazz with Kelsey Waldon and Aurora Nealand - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/july-2026/2629#hour-2</guid>
+      <pubDate>Mon, 20 Jul 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2629_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Reimagining Kentucky Country Music &amp; New Orleans Jazz with Kelsey Waldon and Aurora Nealand - Hour Two</itunes:title>
+      <itunes:summary>Reimagining Kentucky Country Music &amp; New Orleans Jazz with Kelsey Waldon and Aurora Nealand - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1712477436301-S55F09I69A6NHBD3Z1ZG/reimagining+kentucky.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>True Believers and Hardworking Troubadours: Post-Punk Folksinger, Lee Bains, &amp; Swamp Pop Hero, Tommy McLain - Hour One</title>
+      <link>https://www.amroutes.org/july-2026/2628</link>
+      <description>True Believers and Hardworking Troubadours: Post-Punk Folksinger, Lee Bains, &amp; Swamp Pop Hero, Tommy McLain - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/july-2026/2628#hour-1</guid>
+      <pubDate>Mon, 13 Jul 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2025/2504_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>True Believers and Hardworking Troubadours: Post-Punk Folksinger, Lee Bains, &amp; Swamp Pop Hero, Tommy McLain - Hour One</itunes:title>
+      <itunes:summary>True Believers and Hardworking Troubadours: Post-Punk Folksinger, Lee Bains, &amp; Swamp Pop Hero, Tommy McLain - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713477433896-EOAYIH1LTGECKC2MEHV8/_images_uploads_gallery_TommyPress2-1661294374.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>True Believers and Hardworking Troubadours: Post-Punk Folksinger, Lee Bains, &amp; Swamp Pop Hero, Tommy McLain - Hour Two</title>
+      <link>https://www.amroutes.org/july-2026/2628</link>
+      <description>True Believers and Hardworking Troubadours: Post-Punk Folksinger, Lee Bains, &amp; Swamp Pop Hero, Tommy McLain - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/july-2026/2628#hour-2</guid>
+      <pubDate>Mon, 13 Jul 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2628_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>True Believers and Hardworking Troubadours: Post-Punk Folksinger, Lee Bains, &amp; Swamp Pop Hero, Tommy McLain - Hour Two</itunes:title>
+      <itunes:summary>True Believers and Hardworking Troubadours: Post-Punk Folksinger, Lee Bains, &amp; Swamp Pop Hero, Tommy McLain - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1713477433896-EOAYIH1LTGECKC2MEHV8/_images_uploads_gallery_TommyPress2-1661294374.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Black &amp; White Crossover in Country Music and Beyond… Plus Blues from Baton Rouge - Hour One</title>
+      <link>https://www.amroutes.org/july-2026/2627</link>
+      <description>Black &amp; White Crossover in Country Music and Beyond… Plus Blues from Baton Rouge - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/july-2026/2627#hour-1</guid>
+      <pubDate>Mon, 06 Jul 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2025/2530_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Black &amp; White Crossover in Country Music and Beyond… Plus Blues from Baton Rouge - Hour One</itunes:title>
+      <itunes:summary>Black &amp; White Crossover in Country Music and Beyond… Plus Blues from Baton Rouge - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/508a66bd-f54b-4d0d-aa9e-3e58463a6357/pivc1.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>Black &amp; White Crossover in Country Music and Beyond… Plus Blues from Baton Rouge - Hour Two</title>
+      <link>https://www.amroutes.org/july-2026/2627</link>
+      <description>Black &amp; White Crossover in Country Music and Beyond… Plus Blues from Baton Rouge - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/july-2026/2627#hour-2</guid>
+      <pubDate>Mon, 06 Jul 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2627_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>Black &amp; White Crossover in Country Music and Beyond… Plus Blues from Baton Rouge - Hour Two</itunes:title>
+      <itunes:summary>Black &amp; White Crossover in Country Music and Beyond… Plus Blues from Baton Rouge - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/508a66bd-f54b-4d0d-aa9e-3e58463a6357/pivc1.jpg"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>4th of July with the American Folklife Center - Hour One</title>
+      <link>https://www.amroutes.org/july-2026/2626</link>
+      <description>4th of July with the American Folklife Center - Hour One</description>
+      <guid isPermaLink="false">https://www.amroutes.org/july-2026/2626#hour-1</guid>
+      <pubDate>Mon, 06 Jul 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2626_01.mp3" type="audio/mpeg"/>
+
+      <itunes:title>4th of July with the American Folklife Center - Hour One</itunes:title>
+      <itunes:summary>4th of July with the American Folklife Center - Hour One</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1de9da24-581b-43a9-910c-30d91c4bcec3/AFC+50th+Day+2+-+JURE-5.JPG"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>4th of July with the American Folklife Center - Hour Two</title>
+      <link>https://www.amroutes.org/july-2026/2626</link>
+      <description>4th of July with the American Folklife Center - Hour Two</description>
+      <guid isPermaLink="false">https://www.amroutes.org/july-2026/2626#hour-2</guid>
+      <pubDate>Mon, 06 Jul 2026 04:00:00 GMT</pubDate>
+
+      <enclosure url="https://ditifwky3d74f.cloudfront.net/2026/2626_02.mp3" type="audio/mpeg"/>
+
+      <itunes:title>4th of July with the American Folklife Center - Hour Two</itunes:title>
+      <itunes:summary>4th of July with the American Folklife Center - Hour Two</itunes:summary>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/6608b67820a1e41cb804e883/1de9da24-581b-43a9-910c-30d91c4bcec3/AFC+50th+Day+2+-+JURE-5.JPG"/>
+      <itunes:duration>3600</itunes:duration>
+    </item>
     <item>
       <title>Sonny Rollins &amp; Bob French - Hour One</title>
       <link>https://www.amroutes.org/june-2026/2625</link>
