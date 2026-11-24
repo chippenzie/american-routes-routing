@@ -4,7 +4,7 @@ There's a radio show called American Routes (https://www.amroutes.org/) that I r
 
 I made this repo as a way to turn that web archive into a podcast RSS feed. It's not necessary to run this yourself - I run it and update the rss feed periodically - just use the following URL as your podcast source:
 
-[#podcast-rss-url#](https://chippenzie.github.io/american-routes-routing/amroutes.rss)
+[https://chippenzie.github.io/american-routes-routing/amroutes.rss](https://chippenzie.github.io/american-routes-routing/amroutes.rss)
 
 I update the RSS, but I don't do it that often, but there's tons of content to tide you over while you wait.
 
